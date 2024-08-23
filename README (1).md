@@ -88,7 +88,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 - **f(Y)_Solutions**: For providing the training module.
 - **Contributors**: 
-  - [Anirudh Aravalli](https://github.com/AnirudhAravalli)
+  - [Anirudh Aravalli](https://github.com/Tharuntejandhe)
  
 ## Conclusion
 
@@ -96,5 +96,5 @@ Thank you for checking out the Calculator project. Feel free to contribute and p
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/anirudh-a-25b28a257/)
-- [GitHub](https://github.com/AnirudhAravalli)
+- [LinkedIn](https://www.linkedin.com/in/tharun-tej-189323281/)
+- [GitHub](https://github.com/Tharuntejandhe)
